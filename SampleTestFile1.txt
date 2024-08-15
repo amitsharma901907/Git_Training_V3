@@ -4,3 +4,4 @@ Indian  - american express
 testing indian
 this is commit revert 1
 This is Comparison Lecture
+this is stash lecture, change in file1
