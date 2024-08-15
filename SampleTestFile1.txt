@@ -1,1 +1,3 @@
-this is sample file1 
+this is sample file1
+
+testing reset commit 1
